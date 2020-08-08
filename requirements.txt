@@ -1,0 +1,16 @@
+APScheduler==3.6.3
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.10
+Naked==0.1.31
+pycryptodome==3.9.8
+python-engineio==3.13.1
+python-socketio @ file:///F:/Python/Robot/iotBot/python_socketio-4.6.0-py2.py3-none-any.whl
+pytz==2020.1
+PyYAML==5.3.1
+requests==2.24.0
+shellescape==3.8.1
+six==1.15.0
+tzlocal==2.1
+urllib3==1.25.10
+websocket-client==0.57.0
